@@ -2,12 +2,21 @@ body {
     background-size:cover
 }
 
-.col-md-7 {
+.body {
     background-color: whitesmoke;
     width:100% !important;
     padding-bottom: 20px;
     margin-top: 40px;
     padding: 20px;
+    font-size: larger;
+}
+
+img {
+    width:200;
+    height:300px;
+    margin-right:20px;
+    border-radius: 50%;
+
 }
 
 #name {
